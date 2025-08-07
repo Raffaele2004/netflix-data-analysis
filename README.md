@@ -8,7 +8,7 @@ This report explores the distribution of movie ratings on Netflix, the countries
 
 Most Netflix movies have ratings between **6.0 and 6.5**, as shown in the distribution below.
 
-![Rating Distribution](distribution_of_rating.png)
+![Rating Distribution](distribution_of_ratings.png)
 
 ---
 
