@@ -30,7 +30,7 @@ Here’s the full top 10:
 
 Only the top 6 countries produced over 1,000 films.
 
-![Top Countries](top10_countries.png)
+![Top Countries](Top10_countries.png)
 
 ---
 
@@ -44,7 +44,7 @@ The most frequent genre is **Drama**, with almost **7,000 titles**, followed by:
 - Romance & Horror: >2,000
 - Adventure, Crime, Animation, Family: <2,000
 
-![Top Genres](top10_genres.png)
+![Top Genres](Top10_genres.png)
 
 ---
 
