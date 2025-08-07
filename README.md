@@ -30,7 +30,7 @@ Here’s the full top 10:
 
 Only the top 6 countries produced over 1,000 films.
 
-![Top Countries](images/top10_countries.png)
+![Top Countries](top10_countries.png)
 
 ---
 
@@ -44,7 +44,7 @@ The most frequent genre is **Drama**, with almost **7,000 titles**, followed by:
 - Romance & Horror: >2,000
 - Adventure, Crime, Animation, Family: <2,000
 
-![Top Genres](images/top10_genres.png)
+![Top Genres](top10_genres.png)
 
 ---
 
@@ -56,7 +56,7 @@ Only two genres have average ratings above **7.0**:
 
 All others fall between **6.0 and 7.0**, except for **Horror**, which is the only one **below 6.0**.
 
-![Average Rating by Genre](images/avg_rating_by_genre.png)
+![Average Rating by Genre](average_rating_by_genre.png)
 
 ---
 
@@ -65,7 +65,7 @@ All others fall between **6.0 and 7.0**, except for **Horror**, which is the onl
 A scatterplot with a regression line shows a clear trend:
 ➡️ **More votes → Higher average rating**
 
-![Votes vs Rating](images/votes_vs_rating.png)
+![Votes vs Rating](votes_vs_rating.png)
 
 ---
 
@@ -75,7 +75,7 @@ Between 2010 and 2013, the average rating stayed near **6.1–6.2**.
 From 2014 to 2019, it steadily increased, peaking at **6.5 in 2021**.
 Recent years (2024–2025) show a slight decline, with 2025 having the **lowest average**, although data is still incomplete.
 
-![Rating Over Time](images/rating_over_time.png)
+![Rating Over Time](rating_over_time.png)
 
 ---
 
@@ -94,7 +94,7 @@ All countries in this list have an average rating **above 6.0 and below 7.0**:
 9. Switzerland
 10. India
 
-![Top Countries by Rating](images/top10_countries_by_rating.png)
+![Top Countries by Rating](top10_countries_by_rating.png)
 
 ---
 
@@ -108,7 +108,7 @@ This chart highlights outliers:
 
 All other countries fall between 100–2,000 films and ratings between 6.0–6.75.
 
-![Rating vs Movie Count](images/rating_vs_num_movies.png)
+![Rating vs Movie Count](rating_vs_num_movies.png)
 
 ---
 
@@ -128,7 +128,7 @@ Three titles share the top spot with a rating of **8.5**:
 9. Spider-Man: Into the Spider-Verse
 10. Inception
 
-![Top 10 Movies](images/top10_movies.png)
+![Top 10 Movies](top10_movies.png)
 
 ---
 
